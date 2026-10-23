@@ -1,10 +1,10 @@
 # Kairan Shen
 
-M.Dev.Eng. student at UC Berkeley · builds AI-agent systems and data pipelines · ex-Alibaba DingTalk backend intern
+MDevEng student at UC Berkeley · builds AI-agent systems and data pipelines · ex-Alibaba DingTalk backend intern
 
 ## Now
 
-- **ClawGuard** — lead engineer on a bilingual AI-security news and events platform: a security scanner for self-hosted AI agents, an agent-run daily brief, a 25K-event Bay Area events catalogue and a newsletter. [clawguardsecurity.ai](https://clawguardsecurity.ai) · [events.clawguardsecurity.ai](https://events.clawguardsecurity.ai)
+- **ClawGuard** — lead engineer on a bilingual AI-security news and events platform: a security scanner for self-hosted AI agents, an agent-run daily brief, a 25K-event Bay Area events catalogue and a newsletter system. [clawguardsecurity.ai](https://clawguardsecurity.ai) · [events.clawguardsecurity.ai](https://events.clawguardsecurity.ai)
 - **PLOS** — offline teaching system for the NGO illuminAid: an Android projector app, Android and iOS phone remotes and an AWS serverless backend, built as a UC Berkeley client project.
 
 ## Pinned projects
